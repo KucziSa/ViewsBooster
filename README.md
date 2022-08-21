@@ -1,4 +1,5 @@
 # 🔒Kuczi$ Views Booster🔒
+## Use this with any social networking site to increase your trust factor and grow your profile faster!
 # Usage:
 ## Method 1 Run exe file:
 * Download exe file, run
